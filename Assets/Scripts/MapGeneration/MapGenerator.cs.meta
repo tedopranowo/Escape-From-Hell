@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b9ad1b3d24c8a1438fb9b7875c8451e
+timeCreated: 1511491341
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_floor: {fileID: 145996, guid: 868d88e50c2328a4bb1ac588e780f679, type: 2}
+  - m_wall: {fileID: 133430, guid: 21a234cd288ada64e9ec3f92e71fe587, type: 2}
+  - m_camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

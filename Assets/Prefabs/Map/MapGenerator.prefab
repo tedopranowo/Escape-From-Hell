@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &183944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 461508}
+  - component: {fileID: 11431314}
+  m_Layer: 0
+  m_Name: MapGenerator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &461508
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 183944}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.173212, y: 0.26307085, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11431314
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 183944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b9ad1b3d24c8a1438fb9b7875c8451e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_rows: 5
+  m_cols: 5
+  m_minRooms: 5
+  m_maxRooms: 5
+  m_objectsPerRoom: 5
+  outwardExpand: 0
+  m_maxKeys: 3
+  m_room: {fileID: 1248762194348490, guid: a16f5fe50b26e0a4398135aadbe18d5d, type: 2}
+  m_door: {fileID: 1761473335324218, guid: 13637cbd7d16ccc4fb4423ee6fbd4647, type: 2}
+  m_player: {fileID: 1221493112507878, guid: aba1cbfc0c2d6b442b6f970107e9b5d2, type: 2}
+  m_key: {fileID: 1262325258417458, guid: 1ac5066953bdbde41b71ec629dd01372, type: 2}
+  m_lockedDoor: {fileID: 1761473335324218, guid: 287b2d78496d8be4bb575b2753145c34,
+    type: 2}
+  m_goal: {fileID: 1476386256380586, guid: b35b71e9fd89448499f330eee80427e7, type: 2}
+  m_boss: {fileID: 1274447695634138, guid: a3dada82973c41848a6676a5933624d3, type: 2}
+  m_randomObjects:
+  - m_objToSpawn: {fileID: 1209729693683062, guid: 63de6d6528e356f41be319fc73dd84ae,
+      type: 2}
+    m_probability: 100
+  - m_objToSpawn: {fileID: 1730988001753574, guid: f0c70c1ee6223a141a9c6f14773a1a69,
+      type: 2}
+    m_probability: 43.3
+  - m_objToSpawn: {fileID: 0}
+    m_probability: 53.5
+  - m_objToSpawn: {fileID: 1623164297300786, guid: 446822478c09b1e4ead1edfffbff5380,
+      type: 2}
+    m_probability: 39.4
+  - m_objToSpawn: {fileID: 1051599114297676, guid: 7464e1ca2d4aa3943bd9e99fc408bc4c,
+      type: 2}
+    m_probability: 46.5
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_wall
+      value: 
+      objectReference: {fileID: 115930, guid: ed270a741f1c96c42882ac2da8f6a440, type: 2}
+    - target: {fileID: 0}
+      propertyPath: m_floor
+      value: 
+      objectReference: {fileID: 145996, guid: 868d88e50c2328a4bb1ac588e780f679, type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 183944}
+  m_IsPrefabParent: 1

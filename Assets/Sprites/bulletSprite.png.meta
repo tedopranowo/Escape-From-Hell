@@ -1,0 +1,2126 @@
+fileFormatVersion: 2
+guid: 02c801ba812c07347afbf5c8e44d776f
+timeCreated: 1511246237
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bulletSprite_0
+    21300002: bulletSprite_1
+    21300004: bulletSprite_2
+    21300006: bulletSprite_3
+    21300008: bulletSprite_4
+    21300010: bulletSprite_5
+    21300012: bulletSprite_6
+    21300014: bulletSprite_7
+    21300016: bulletSprite_8
+    21300018: bulletSprite_9
+    21300020: bulletSprite_10
+    21300022: bulletSprite_11
+    21300024: bulletSprite_12
+    21300026: bulletSprite_13
+    21300028: bulletSprite_14
+    21300030: bulletSprite_15
+    21300032: bulletSprite_16
+    21300034: bulletSprite_17
+    21300036: bulletSprite_18
+    21300038: bulletSprite_19
+    21300040: bulletSprite_20
+    21300042: bulletSprite_21
+    21300044: bulletSprite_22
+    21300046: bulletSprite_23
+    21300048: bulletSprite_24
+    21300050: bulletSprite_25
+    21300052: bulletSprite_26
+    21300054: bulletSprite_27
+    21300056: bulletSprite_28
+    21300058: bulletSprite_29
+    21300060: bulletSprite_30
+    21300062: bulletSprite_31
+    21300064: bulletSprite_32
+    21300066: bulletSprite_33
+    21300068: bulletSprite_34
+    21300070: bulletSprite_35
+    21300072: bulletSprite_36
+    21300074: bulletSprite_37
+    21300076: bulletSprite_38
+    21300078: bulletSprite_39
+    21300080: bulletSprite_40
+    21300082: bulletSprite_41
+    21300084: bulletSprite_42
+    21300086: bulletSprite_43
+    21300088: bulletSprite_44
+    21300090: bulletSprite_45
+    21300092: bulletSprite_46
+    21300094: bulletSprite_47
+    21300096: bulletSprite_48
+    21300098: bulletSprite_49
+    21300100: bulletSprite_50
+    21300102: bulletSprite_51
+    21300104: bulletSprite_52
+    21300106: bulletSprite_53
+    21300108: bulletSprite_54
+    21300110: bulletSprite_55
+    21300112: bulletSprite_56
+    21300114: bulletSprite_57
+    21300116: bulletSprite_58
+    21300118: bulletSprite_59
+    21300120: bulletSprite_60
+    21300122: bulletSprite_61
+    21300124: bulletSprite_62
+    21300126: bulletSprite_63
+    21300128: bulletSprite_64
+    21300130: bulletSprite_65
+    21300132: bulletSprite_66
+    21300134: bulletSprite_67
+    21300136: bulletSprite_68
+    21300138: bulletSprite_69
+    21300140: bulletSprite_70
+    21300142: bulletSprite_71
+    21300144: bulletSprite_72
+    21300146: bulletSprite_73
+    21300148: bulletSprite_74
+    21300150: bulletSprite_75
+    21300152: bulletSprite_76
+    21300154: bulletSprite_77
+    21300156: bulletSprite_78
+    21300158: bulletSprite_79
+    21300160: bulletSprite_80
+    21300162: bulletSprite_81
+    21300164: bulletSprite_82
+    21300166: bulletSprite_83
+    21300168: bulletSprite_84
+    21300170: bulletSprite_85
+    21300172: bulletSprite_86
+    21300174: bulletSprite_87
+    21300176: bulletSprite_88
+    21300178: bulletSprite_89
+    21300180: bulletSprite_90
+    21300182: bulletSprite_91
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bulletSprite_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 154
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 154
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 154
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 154
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 154
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 155
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 145
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 145
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_9
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 145
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 145
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 145
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 145
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 142
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 142
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 139
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 139
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 131
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 131
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 120
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 124
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 124
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 125
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_24
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 124
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 124
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 118
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 118
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 102
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 101
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 102
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 98
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 94
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 94
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 94
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 70
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 73
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 73
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 73
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 73
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_46
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_48
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 73
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_50
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 70
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_51
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 70
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_52
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 70
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 60
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_55
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 46
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 46
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_57
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 44
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_60
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 44
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_62
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_63
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 43
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_64
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 43
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_65
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 43
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_66
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 43
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_70
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 28
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 28
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 28
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_73
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 25
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_74
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 25
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 25
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_76
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 25
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_77
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 11
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_79
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 10
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_80
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 11
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 14
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_82
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_83
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 9
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_84
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 9
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_87
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 13
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_88
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 7
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 7
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bulletSprite_91
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 7
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 123, y: -69}
+      - {x: 102, y: -68}
+      - {x: 82, y: -68}
+      - {x: 79, y: -71}
+      - {x: 79, y: -83}
+      - {x: 80, y: -86}
+      - {x: 141, y: -86}
+      - {x: 143, y: -82}
+      - {x: 143, y: -75}
+      - {x: 138, y: -70}
+    - - {x: -23, y: -68}
+      - {x: -25, y: -68}
+      - {x: -29, y: -70}
+      - {x: -30, y: -73}
+      - {x: -30, y: -79}
+      - {x: -26, y: -84}
+      - {x: -22, y: -84}
+      - {x: -19, y: -79}
+      - {x: -19, y: -75}
+      - {x: -21, y: -70}
+    - - {x: 43, y: -68}
+      - {x: 40, y: -68}
+      - {x: 37, y: -72}
+      - {x: 37, y: -78}
+      - {x: 38, y: -82}
+      - {x: 42, y: -84}
+      - {x: 45, y: -84}
+      - {x: 48, y: -79}
+      - {x: 48, y: -75}
+      - {x: 46, y: -70}
+    - - {x: -106, y: -64}
+      - {x: -109, y: -70}
+      - {x: -109, y: -80}
+      - {x: -105, y: -83}
+      - {x: -99, y: -83}
+      - {x: -98, y: -80}
+      - {x: -98, y: -68}
+      - {x: -103, y: -63}
+    - - {x: -119, y: -63}
+      - {x: -124, y: -70}
+      - {x: -124, y: -78}
+      - {x: -122, y: -82}
+      - {x: -117, y: -82}
+      - {x: -112, y: -80}
+      - {x: -112, y: -64}
+      - {x: -115, y: -63}
+    - - {x: -88, y: -63}
+      - {x: -92, y: -63}
+      - {x: -95, y: -64}
+      - {x: -95, y: -80}
+      - {x: -90, y: -82}
+      - {x: -85, y: -82}
+      - {x: -83, y: -80}
+      - {x: -83, y: -68}
+    - - {x: -42, y: -67}
+      - {x: -46, y: -73}
+      - {x: -46, y: -80}
+      - {x: -35, y: -80}
+      - {x: -33, y: -72}
+      - {x: -33, y: -68}
+      - {x: -34, y: -67}
+    - - {x: -16, y: -76}
+      - {x: -10, y: -80}
+      - {x: -3, y: -80}
+      - {x: -3, y: -69}
+      - {x: -11, y: -67}
+      - {x: -15, y: -67}
+      - {x: -16, y: -68}
+    - - {x: 24, y: -67}
+      - {x: 21, y: -74}
+      - {x: 21, y: -80}
+      - {x: 29, y: -80}
+      - {x: 33, y: -76}
+      - {x: 34, y: -69}
+      - {x: 33, y: -67}
+    - - {x: 51, y: -76}
+      - {x: 57, y: -80}
+      - {x: 64, y: -80}
+      - {x: 64, y: -69}
+      - {x: 56, y: -67}
+      - {x: 52, y: -67}
+      - {x: 51, y: -68}
+    - - {x: -135, y: -63}
+      - {x: -143, y: -69}
+      - {x: -143, y: -77}
+      - {x: -142, y: -79}
+      - {x: -135, y: -79}
+      - {x: -127, y: -74}
+      - {x: -126, y: -72}
+      - {x: -126, y: -64}
+      - {x: -129, y: -63}
+    - - {x: -75, y: -63}
+      - {x: -80, y: -63}
+      - {x: -81, y: -64}
+      - {x: -81, y: -68}
+      - {x: -80, y: -73}
+      - {x: -72, y: -79}
+      - {x: -66, y: -79}
+      - {x: -64, y: -76}
+      - {x: -64, y: -69}
+      - {x: -70, y: -64}
+    - - {x: 80, y: -50}
+      - {x: 79, y: -51}
+      - {x: 79, y: -68}
+      - {x: 141, y: -68}
+      - {x: 143, y: -64}
+      - {x: 143, y: -55}
+      - {x: 140, y: -50}
+    - - {x: -44, y: -54}
+      - {x: -48, y: -54}
+      - {x: -53, y: -58}
+      - {x: -53, y: -63}
+      - {x: -49, y: -65}
+      - {x: -41, y: -65}
+      - {x: -37, y: -60}
+      - {x: -37, y: -59}
+      - {x: -39, y: -56}
+    - - {x: -5, y: -54}
+      - {x: -8, y: -55}
+      - {x: -10, y: -57}
+      - {x: -10, y: -62}
+      - {x: -9, y: -65}
+      - {x: 5, y: -65}
+      - {x: 6, y: -62}
+      - {x: 6, y: -57}
+      - {x: 1, y: -54}
+    - - {x: 19, y: -54}
+      - {x: 16, y: -55}
+      - {x: 14, y: -57}
+      - {x: 14, y: -62}
+      - {x: 15, y: -65}
+      - {x: 29, y: -65}
+      - {x: 30, y: -62}
+      - {x: 30, y: -57}
+      - {x: 25, y: -54}
+    - - {x: 62, y: -54}
+      - {x: 59, y: -55}
+      - {x: 57, y: -57}
+      - {x: 57, y: -62}
+      - {x: 58, y: -65}
+      - {x: 72, y: -65}
+      - {x: 73, y: -62}
+      - {x: 73, y: -57}
+      - {x: 68, y: -54}
+    - - {x: -143, y: -50}
+      - {x: -145, y: -55}
+      - {x: -145, y: -60}
+      - {x: -143, y: -62}
+      - {x: -131, y: -62}
+      - {x: -126, y: -57}
+      - {x: -126, y: -53}
+      - {x: -127, y: -50}
+    - - {x: -79, y: -50}
+      - {x: -81, y: -51}
+      - {x: -81, y: -56}
+      - {x: -74, y: -62}
+      - {x: -64, y: -62}
+      - {x: -62, y: -58}
+      - {x: -62, y: -51}
+      - {x: -63, y: -50}
+    - - {x: -46, y: -38}
+      - {x: -46, y: -49}
+      - {x: -40, y: -51}
+      - {x: -33, y: -51}
+      - {x: -33, y: -41}
+      - {x: -38, y: -38}
+    - - {x: -10, y: -38}
+      - {x: -15, y: -42}
+      - {x: -16, y: -49}
+      - {x: -15, y: -51}
+      - {x: -10, y: -51}
+      - {x: -4, y: -49}
+      - {x: -3, y: -47}
+      - {x: -3, y: -38}
+    - - {x: 21, y: -38}
+      - {x: 21, y: -46}
+      - {x: 22, y: -48}
+      - {x: 26, y: -51}
+      - {x: 32, y: -51}
+      - {x: 34, y: -50}
+      - {x: 34, y: -46}
+      - {x: 33, y: -43}
+      - {x: 31, y: -40}
+      - {x: 26, y: -38}
+    - - {x: 57, y: -38}
+      - {x: 52, y: -42}
+      - {x: 51, y: -49}
+      - {x: 52, y: -51}
+      - {x: 57, y: -51}
+      - {x: 63, y: -49}
+      - {x: 64, y: -47}
+      - {x: 64, y: -38}
+    - - {x: 82, y: -32}
+      - {x: 79, y: -35}
+      - {x: 79, y: -47}
+      - {x: 80, y: -50}
+      - {x: 142, y: -50}
+      - {x: 143, y: -49}
+      - {x: 143, y: -36}
+      - {x: 134, y: -32}
+    - - {x: -23, y: -33}
+      - {x: -25, y: -33}
+      - {x: -29, y: -35}
+      - {x: -30, y: -38}
+      - {x: -30, y: -44}
+      - {x: -26, y: -49}
+      - {x: -22, y: -49}
+      - {x: -19, y: -44}
+      - {x: -19, y: -40}
+      - {x: -21, y: -35}
+    - - {x: 41, y: -33}
+      - {x: 37, y: -38}
+      - {x: 37, y: -42}
+      - {x: 39, y: -47}
+      - {x: 42, y: -49}
+      - {x: 45, y: -49}
+      - {x: 48, y: -46}
+      - {x: 48, y: -38}
+      - {x: 45, y: -33}
+    - - {x: -143, y: -36}
+      - {x: -146, y: -40}
+      - {x: -146, y: -46}
+      - {x: -143, y: -47}
+      - {x: -131, y: -47}
+      - {x: -126, y: -42}
+      - {x: -127, y: -39}
+      - {x: -133, y: -36}
+    - - {x: -76, y: -36}
+      - {x: -81, y: -41}
+      - {x: -80, y: -44}
+      - {x: -77, y: -47}
+      - {x: -65, y: -47}
+      - {x: -61, y: -45}
+      - {x: -61, y: -37}
+      - {x: -64, y: -36}
+    - - {x: -144, y: -21}
+      - {x: -145, y: -24}
+      - {x: -145, y: -30}
+      - {x: -142, y: -33}
+      - {x: -127, y: -33}
+      - {x: -126, y: -32}
+      - {x: -126, y: -27}
+      - {x: -129, y: -21}
+    - - {x: -65, y: -21}
+      - {x: -76, y: -21}
+      - {x: -81, y: -26}
+      - {x: -81, y: -31}
+      - {x: -80, y: -33}
+      - {x: -67, y: -33}
+      - {x: -62, y: -29}
+      - {x: -62, y: -25}
+    - - {x: 132, y: 16}
+      - {x: 126, y: 9}
+      - {x: 116, y: 13}
+      - {x: 99, y: 7}
+      - {x: 80, y: -3}
+      - {x: 76, y: -16}
+      - {x: 76, y: -21}
+      - {x: 78, y: -23}
+      - {x: 144, y: -23}
+      - {x: 145, y: -22}
+      - {x: 145, y: 11}
+      - {x: 137, y: 16}
+    - - {x: -42, y: 1}
+      - {x: -47, y: 0}
+      - {x: -47, y: -16}
+      - {x: -40, y: -22}
+      - {x: -5, y: -22}
+      - {x: -2, y: -16}
+      - {x: -2, y: 1}
+    - - {x: -135, y: -4}
+      - {x: -141, y: -4}
+      - {x: -143, y: -7}
+      - {x: -143, y: -14}
+      - {x: -137, y: -19}
+      - {x: -132, y: -20}
+      - {x: -127, y: -20}
+      - {x: -126, y: -19}
+      - {x: -126, y: -15}
+      - {x: -127, y: -10}
+    - - {x: -120, y: -1}
+      - {x: -124, y: -3}
+      - {x: -124, y: -13}
+      - {x: -118, y: -20}
+      - {x: -113, y: -20}
+      - {x: -112, y: -18}
+      - {x: -112, y: -2}
+      - {x: -113, y: -1}
+    - - {x: -108, y: 0}
+      - {x: -109, y: -3}
+      - {x: -109, y: -15}
+      - {x: -104, y: -20}
+      - {x: -101, y: -19}
+      - {x: -98, y: -16}
+      - {x: -98, y: -4}
+      - {x: -100, y: 0}
+    - - {x: -87, y: -1}
+      - {x: -91, y: -1}
+      - {x: -95, y: -6}
+      - {x: -95, y: -19}
+      - {x: -93, y: -20}
+      - {x: -88, y: -20}
+      - {x: -83, y: -15}
+      - {x: -83, y: -4}
+    - - {x: -72, y: -4}
+      - {x: -81, y: -9}
+      - {x: -81, y: -19}
+      - {x: -80, y: -20}
+      - {x: -75, y: -20}
+      - {x: -70, y: -19}
+      - {x: -64, y: -14}
+      - {x: -64, y: -6}
+      - {x: -65, y: -4}
+    - - {x: 16, y: -8}
+      - {x: 14, y: -12}
+      - {x: 14, y: -19}
+      - {x: 16, y: -20}
+      - {x: 25, y: -20}
+      - {x: 26, y: -18}
+      - {x: 26, y: -10}
+      - {x: 22, y: -8}
+    - - {x: 35, y: -7}
+      - {x: 31, y: -11}
+      - {x: 31, y: -16}
+      - {x: 35, y: -20}
+      - {x: 40, y: -20}
+      - {x: 44, y: -16}
+      - {x: 44, y: -11}
+      - {x: 40, y: -7}
+    - - {x: 50, y: -5}
+      - {x: 49, y: -9}
+      - {x: 49, y: -19}
+      - {x: 53, y: -20}
+      - {x: 63, y: -20}
+      - {x: 64, y: -16}
+      - {x: 64, y: -6}
+      - {x: 60, y: -5}
+    - - {x: 18, y: 18}
+      - {x: 14, y: 14}
+      - {x: 14, y: 5}
+      - {x: 18, y: 1}
+      - {x: 22, y: 1}
+      - {x: 26, y: 5}
+      - {x: 26, y: 14}
+      - {x: 22, y: 18}
+    - - {x: 32, y: 20}
+      - {x: 31, y: 16}
+      - {x: 31, y: 2}
+      - {x: 33, y: 1}
+      - {x: 43, y: 1}
+      - {x: 44, y: 5}
+      - {x: 44, y: 19}
+      - {x: 42, y: 20}
+    - - {x: 50, y: 24}
+      - {x: 49, y: 20}
+      - {x: 49, y: 1}
+      - {x: 63, y: 1}
+      - {x: 64, y: 5}
+      - {x: 64, y: 24}
+    - - {x: -29, y: 23}
+      - {x: -32, y: 24}
+      - {x: -39, y: 24}
+      - {x: -44, y: 21}
+      - {x: -45, y: 18}
+      - {x: -45, y: 11}
+      - {x: -42, y: 6}
+      - {x: -39, y: 5}
+      - {x: -32, y: 5}
+      - {x: -27, y: 8}
+      - {x: -26, y: 11}
+      - {x: -26, y: 18}
+    - - {x: -20, y: 24}
+      - {x: -23, y: 21}
+      - {x: -23, y: 11}
+      - {x: -21, y: 5}
+      - {x: -7, y: 5}
+      - {x: -4, y: 8}
+      - {x: -4, y: 18}
+      - {x: -6, y: 24}
+    - - {x: -109, y: 12}
+      - {x: -106, y: 8}
+      - {x: -103, y: 8}
+      - {x: -99, y: 9}
+      - {x: -99, y: 21}
+      - {x: -100, y: 26}
+      - {x: -106, y: 26}
+      - {x: -109, y: 21}
+    - - {x: -120, y: 26}
+      - {x: -125, y: 19}
+      - {x: -125, y: 10}
+      - {x: -123, y: 9}
+      - {x: -116, y: 9}
+      - {x: -114, y: 12}
+      - {x: -113, y: 15}
+      - {x: -113, y: 26}
+    - - {x: -88, y: 26}
+      - {x: -93, y: 26}
+      - {x: -95, y: 25}
+      - {x: -95, y: 14}
+      - {x: -90, y: 9}
+      - {x: -86, y: 9}
+      - {x: -83, y: 11}
+      - {x: -83, y: 21}
+    - - {x: -132, y: 25}
+      - {x: -137, y: 24}
+      - {x: -140, y: 18}
+      - {x: -140, y: 11}
+      - {x: -129, y: 11}
+      - {x: -125, y: 17}
+      - {x: -125, y: 23}
+      - {x: -126, y: 25}
+    - - {x: -81, y: 25}
+      - {x: -83, y: 23}
+      - {x: -83, y: 18}
+      - {x: -79, y: 11}
+      - {x: -70, y: 11}
+      - {x: -68, y: 12}
+      - {x: -68, y: 19}
+      - {x: -75, y: 25}
+    - - {x: -137, y: 37}
+      - {x: -142, y: 34}
+      - {x: -142, y: 28}
+      - {x: -141, y: 25}
+      - {x: -132, y: 25}
+      - {x: -125, y: 30}
+      - {x: -125, y: 37}
+    - - {x: -83, y: 31}
+      - {x: -78, y: 25}
+      - {x: -69, y: 25}
+      - {x: -66, y: 26}
+      - {x: -66, y: 33}
+      - {x: -68, y: 37}
+      - {x: -82, y: 37}
+      - {x: -83, y: 36}
+    - - {x: -39, y: 44}
+      - {x: -44, y: 39}
+      - {x: -44, y: 32}
+      - {x: -39, y: 27}
+      - {x: -32, y: 27}
+      - {x: -27, y: 32}
+      - {x: -27, y: 39}
+      - {x: -32, y: 44}
+    - - {x: -17, y: 44}
+      - {x: -22, y: 39}
+      - {x: -22, y: 32}
+      - {x: -17, y: 27}
+      - {x: -10, y: 27}
+      - {x: -5, y: 32}
+      - {x: -5, y: 39}
+      - {x: -10, y: 44}
+    - - {x: 19, y: 42}
+      - {x: 15, y: 38}
+      - {x: 15, y: 33}
+      - {x: 17, y: 31}
+      - {x: 26, y: 31}
+      - {x: 26, y: 40}
+      - {x: 22, y: 42}
+    - - {x: 34, y: 45}
+      - {x: 30, y: 41}
+      - {x: 30, y: 31}
+      - {x: 43, y: 31}
+      - {x: 43, y: 42}
+      - {x: 39, y: 45}
+    - - {x: 51, y: 46}
+      - {x: 47, y: 41}
+      - {x: 47, y: 31}
+      - {x: 62, y: 31}
+      - {x: 62, y: 41}
+      - {x: 58, y: 46}
+    - - {x: 95, y: 46}
+      - {x: 94, y: 45}
+      - {x: 94, y: 37}
+      - {x: 97, y: 31}
+      - {x: 104, y: 31}
+      - {x: 107, y: 36}
+      - {x: 107, y: 45}
+      - {x: 104, y: 46}
+    - - {x: 116, y: 49}
+      - {x: 111, y: 46}
+      - {x: 111, y: 40}
+      - {x: 114, y: 33}
+      - {x: 118, y: 31}
+      - {x: 121, y: 31}
+      - {x: 126, y: 36}
+      - {x: 126, y: 46}
+      - {x: 125, y: 49}
+    - - {x: 83, y: 43}
+      - {x: 79, y: 39}
+      - {x: 79, y: 36}
+      - {x: 83, y: 32}
+      - {x: 86, y: 32}
+      - {x: 90, y: 36}
+      - {x: 90, y: 39}
+      - {x: 86, y: 43}
+    - - {x: -139, y: 48}
+      - {x: -143, y: 46}
+      - {x: -143, y: 41}
+      - {x: -141, y: 38}
+      - {x: -131, y: 38}
+      - {x: -125, y: 40}
+      - {x: -125, y: 46}
+      - {x: -127, y: 48}
+    - - {x: -81, y: 38}
+      - {x: -69, y: 38}
+      - {x: -65, y: 40}
+      - {x: -65, y: 45}
+      - {x: -67, y: 48}
+      - {x: -77, y: 48}
+      - {x: -83, y: 46}
+      - {x: -83, y: 40}
+    - - {x: -38, y: 61}
+      - {x: -43, y: 56}
+      - {x: -43, y: 51}
+      - {x: -38, y: 46}
+      - {x: -33, y: 46}
+      - {x: -28, y: 51}
+      - {x: -28, y: 56}
+      - {x: -33, y: 61}
+    - - {x: -16, y: 61}
+      - {x: -21, y: 56}
+      - {x: -21, y: 51}
+      - {x: -16, y: 46}
+      - {x: -11, y: 46}
+      - {x: -6, y: 51}
+      - {x: -6, y: 56}
+      - {x: -11, y: 61}
+    - - {x: -141, y: 61}
+      - {x: -142, y: 58}
+      - {x: -142, y: 53}
+      - {x: -139, y: 50}
+      - {x: -136, y: 49}
+      - {x: -125, y: 49}
+      - {x: -125, y: 56}
+      - {x: -130, y: 61}
+    - - {x: -76, y: 61}
+      - {x: -83, y: 55}
+      - {x: -83, y: 49}
+      - {x: -71, y: 49}
+      - {x: -66, y: 52}
+      - {x: -66, y: 58}
+      - {x: -67, y: 61}
+    - - {x: 15, y: 63}
+      - {x: 15, y: 54}
+      - {x: 16, y: 52}
+      - {x: 26, y: 52}
+      - {x: 26, y: 63}
+      - {x: 22, y: 67}
+      - {x: 19, y: 67}
+    - - {x: 31, y: 72}
+      - {x: 30, y: 69}
+      - {x: 30, y: 52}
+      - {x: 43, y: 52}
+      - {x: 43, y: 69}
+      - {x: 39, y: 72}
+    - - {x: 51, y: 74}
+      - {x: 47, y: 69}
+      - {x: 47, y: 52}
+      - {x: 62, y: 52}
+      - {x: 62, y: 72}
+      - {x: 59, y: 74}
+    - - {x: 80, y: 68}
+      - {x: 79, y: 64}
+      - {x: 79, y: 58}
+      - {x: 84, y: 52}
+      - {x: 87, y: 53}
+      - {x: 90, y: 60}
+      - {x: 90, y: 67}
+      - {x: 88, y: 68}
+    - - {x: 96, y: 71}
+      - {x: 94, y: 66}
+      - {x: 94, y: 58}
+      - {x: 100, y: 52}
+      - {x: 103, y: 53}
+      - {x: 107, y: 62}
+      - {x: 107, y: 66}
+      - {x: 102, y: 71}
+    - - {x: 113, y: 74}
+      - {x: 111, y: 69}
+      - {x: 111, y: 59}
+      - {x: 116, y: 52}
+      - {x: 120, y: 52}
+      - {x: 126, y: 61}
+      - {x: 126, y: 72}
+      - {x: 123, y: 74}
+    - - {x: -131, y: 75}
+      - {x: -140, y: 75}
+      - {x: -140, y: 68}
+      - {x: -137, y: 61}
+      - {x: -126, y: 61}
+      - {x: -125, y: 63}
+      - {x: -125, y: 73}
+    - - {x: -125, y: 76}
+      - {x: -125, y: 66}
+      - {x: -120, y: 61}
+      - {x: -115, y: 61}
+      - {x: -113, y: 62}
+      - {x: -113, y: 73}
+      - {x: -118, y: 78}
+      - {x: -122, y: 78}
+    - - {x: -108, y: 79}
+      - {x: -109, y: 78}
+      - {x: -109, y: 67}
+      - {x: -107, y: 61}
+      - {x: -102, y: 61}
+      - {x: -99, y: 66}
+      - {x: -99, y: 77}
+      - {x: -103, y: 79}
+    - - {x: -95, y: 61}
+      - {x: -90, y: 61}
+      - {x: -83, y: 65}
+      - {x: -83, y: 75}
+      - {x: -84, y: 78}
+      - {x: -90, y: 78}
+      - {x: -95, y: 76}
+    - - {x: -76, y: 75}
+      - {x: -81, y: 71}
+      - {x: -83, y: 66}
+      - {x: -83, y: 63}
+      - {x: -82, y: 61}
+      - {x: -77, y: 61}
+      - {x: -72, y: 62}
+      - {x: -68, y: 65}
+      - {x: -68, y: 73}
+      - {x: -69, y: 75}
+    - - {x: -41, y: 66}
+      - {x: -39, y: 62}
+      - {x: -33, y: 62}
+      - {x: -30, y: 63}
+      - {x: -30, y: 69}
+      - {x: -32, y: 73}
+      - {x: -37, y: 73}
+      - {x: -41, y: 69}
+    - - {x: -15, y: 73}
+      - {x: -19, y: 69}
+      - {x: -19, y: 66}
+      - {x: -15, y: 62}
+      - {x: -12, y: 62}
+      - {x: -8, y: 66}
+      - {x: -8, y: 69}
+      - {x: -12, y: 73}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
