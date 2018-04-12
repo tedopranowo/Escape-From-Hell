@@ -15,4 +15,4 @@ This is a test text
 ### Artist
 - Kevin Johannes Sutrisno
 ### Music
-- [Wolfram Tones](tones.wolfram.com)
+- [Wolfram Tones](http://tones.wolfram.com)
